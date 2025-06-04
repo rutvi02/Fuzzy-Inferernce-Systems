@@ -1,7 +1,7 @@
 # Fuzzy-neural-networks
 
 Fuzzy System : It has all the source code for Implementing basic Fuzzy Inference from scratch. (Credits: 2020 Raul Navarro-Almanza, Universidad Autónoma de Baja California)
-( The code in this folder is not wriiten by me, but I understood the whole scource code in order to optimize the generation of Membership function parameters using Genetic Algorithm)
+( The code in this folder is not written by me, but I understood the whole scource code in order to optimize the generation of Membership function parameters using Genetic Algorithm)
 Datasets :
 1. Iris Dataset: iris-attr.txt, iris-train.txt
 2. Wine Quality Dataset: wine-attr.txt, winequality.csv 
